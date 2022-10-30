@@ -1,6 +1,6 @@
 # LUA-2D-PLATFORMER
 
-requisitos:
+# requisitos:
 LOVE2D > 11.4
 compilador LUA
 
